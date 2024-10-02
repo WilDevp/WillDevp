@@ -21,16 +21,13 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 GitHub Stats & Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/YourUsername?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.ignored=html,css,scss,ejs&languages.details=percentage&languages.analysis.timeout=5s&config.timezone=America%2FBogota)
-
-<!-- Optionally you can include the Metrics plugin to display contributions, stars, and other detailed stats. -->
-<!-- Add your preferred GitHub metrics badge URLs -->
+![GitHub Metrics](https://metrics.lecoq.io/WillDevp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.ignored=html,css,scss,ejs&languages.details=percentage&languages.analysis.timeout=5s&config.timezone=America%2FBogota)
 
 ---
 
 ## 📬 Connect with Me
 - 🌐 Check out my website: [WillDevp](https://www.willdevp.com/)
-- 💬 Reach me on LinkedIn: [Wilmar Garcia](https://linkedin.com/in/https://www.linkedin.com/in/wilmargarcia-fullstackdeveloper/)
+- 💬 Reach me on LinkedIn: [Wilmar Garcia](https://www.linkedin.com/in/wilmargarcia-fullstackdeveloper/)
 
 ---
 
@@ -52,15 +49,12 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 Estadísticas & Métricas de GitHub
 
-![Métricas de GitHub](https://metrics.lecoq.io/WillDevp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.ignored=html,css,scss,ejs&languages.details=percentage&languages.analysis.timeout=5s&config.timezone=America%2FBogota)
-
-<!-- Puedes incluir opcionalmente el plugin de Métricas para mostrar contribuciones, estrellas y otras estadísticas detalladas. -->
-<!-- Añade tus URLs preferidas de métricas de GitHub -->
+![GitHub Metrics](https://metrics.lecoq.io/WillDevp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.ignored=html,css,scss,ejs&languages.details=percentage&languages.analysis.timeout=5s&config.timezone=America%2FBogota)
 
 ---
 
 ## 📬 Conecta Conmigo
 - 🌐 Visita mi sitio web: [WillDevp](https://www.willdevp.com/)
-- 💬 Contáctame en LinkedIn: [Wilmar Garcia](https://linkedin.com/in/your-linkedin-profile)
+- 💬 Contáctame en LinkedIn: [Wilmar Garcia](https://www.linkedin.com/in/wilmargarcia-fullstackdeveloper/)
 
 ---
