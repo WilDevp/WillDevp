@@ -21,8 +21,7 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 GitHub Stats & Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/WillDevp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.ignored=html,css,scss,ejs&languages.details=percentage&languages.analysis.timeout=5s&config.timezone=America%2FBogota)
-
+![GitHub Metrics](https://metrics.lecoq.io/insights/WillDevp)
 ---
 
 ## 📬 Connect with Me
@@ -49,7 +48,7 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 Estadísticas & Métricas de GitHub
 
-![GitHub Metrics](https://metrics.lecoq.io/WillDevp?template=classic&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.ignored=html,css,scss,ejs&languages.details=percentage&languages.analysis.timeout=5s&config.timezone=America%2FBogota)
+![GitHub Metrics](https://metrics.lecoq.io/insights/WillDevp)
 
 ---
 
