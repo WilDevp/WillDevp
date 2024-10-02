@@ -21,7 +21,7 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 GitHub Stats & Metrics
 
-![GitHub Metrics](https://metrics.lecoq.io/insights/WillDevp)
+![GitHub Metrics](https://metrics.lecoq.io/insights?user=https://github.com/WillDevp)
 ---
 
 ## 📬 Connect with Me
@@ -48,7 +48,7 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 Estadísticas & Métricas de GitHub
 
-![GitHub Metrics](https://metrics.lecoq.io/insights/WillDevp)
+![GitHub Metrics](https://metrics.lecoq.io/insights?user=https://github.com/WillDevp)
 
 ---
 
