@@ -48,7 +48,7 @@ Hi there! 👋 I'm **Wilmar Garcia**, a passionate **Full Stack Developer** and 
 
 ### 📊 Estadísticas & Métricas de GitHub
 
-![WillDevp](https://github-readme-stats.vercel.app/api?username=WillDevp&theme=tokyonight&show_icons=true)
+![WillDev](https://www.willdevp.com/logos/willdev.svg)
 
 ---
 
